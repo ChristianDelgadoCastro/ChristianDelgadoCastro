@@ -24,7 +24,19 @@ I am a university technician graduated from the career of multiplatform software
 - MongoDB ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 - jQuery![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
-## Experiencia
+## Experiencie
 
-- Company 1: ICIIBA (Instituto de Ciencias de la Información e Ingles del Bajio) / May - August
+- ICIIBA (Instituto de Ciencias de la Información e Ingles del Bajio) / May - August
   - I was in charge of the school administration project, which was part of the internship process.
+ 
+## Education
+
+- Academic degree: Higher University Technician in Multiplatform Software Development 2021 - 2023.
+  - During my stay I could obtain certificates such as CCNA 1 & 2, as well as I could learn the basics of programming languages, although I mainly used Java, JavaScript and technologies such as Ajax and Fetch for the backend of web applications.
+
+## Contacto
+
+- Email: christian.delgado.exe@gmail.com
+- [Portafolio]([https://github.com/ChristianDelgadoCastro/gestorEscuela](https://christiandelgadocastro.github.io/PortafolioEN.html))
+- LinkedIn: [Christian Delgado]() WIP
+
