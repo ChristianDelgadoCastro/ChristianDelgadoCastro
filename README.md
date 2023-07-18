@@ -4,7 +4,7 @@
 
 I am a university technician graduated from the career of multiplatform software development, I have developed fullstack web pages, desktop applications and android applications.
 
-## Proyectos destacados
+## Featured projects
 
 - [School manager](https://github.com/ChristianDelgadoCastro/gestorEscuela): It is a desktop application made with java, its function is to manage the subjects, groups, students and grades, the novelty of this project is that we can import the grades through an Excel file and we can generate the report cards automatically. 
 - [Santa Maria Veterinary](https://github.com/ChristianDelgadoCastro/Venerinaria-Santa-Maria): This is a web page designed for a veterinary, is made with java, js, css, html, boostrap, sweetAlert, AwesomeFonts, jQuery, REST API services and MySQL working in CleverCloud, plus it is connected to a service that works through Arduino, where to pass the tag (the collar of the pet) by a scanner shows us on the website the information of the pet. It also has the functionality to print PDF files with the pet's information.
