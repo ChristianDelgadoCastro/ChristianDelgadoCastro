@@ -1,8 +1,8 @@
 
 # My name is Christian Delgado
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am;Christian+Delgado&center=true&height=45&color=f75c7e&vCenter=true&pause=1000&size=22")
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am;Software+Developer&center=true&height=45&color=f75c7e&vCenter=true&pause=1000&size=22")
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Developer;FullStack+Developer;Always+learning+something+new&center=true&height=45&color=f75c7e&vCenter=true&pause=1000&size=22")
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Christian+Delgado;FullStack&center=true&height=45&color=f75c7e&vCenter=true&pause=1000&size=22")
 
 I am a university technician graduated from the career of multiplatform software development, I have developed fullstack web pages, desktop applications and android applications.
 
