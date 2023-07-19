@@ -1,5 +1,3 @@
-
-# My name is Christian Delgado
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am;Software+Developer&center=true&height=45&color=f75c7e&vCenter=true&pause=1000&size=22")
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Christian+Delgado;FullStack&center=true&height=45&color=f75c7e&vCenter=true&pause=1000&size=22")
